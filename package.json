@@ -1,0 +1,12 @@
+{
+  "name": "bearlike-switch-view",
+  "main": "./lib/plugin",
+  "version": "0.1.0",
+  "description": "Switch view like bear",
+  "keywords": [],
+  "repository": "https://github.com/basyura/inkdrop-bearlike-switch-view",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^5.x"
+  }
+}
